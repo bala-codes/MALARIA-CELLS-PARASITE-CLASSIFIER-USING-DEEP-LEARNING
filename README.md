@@ -3,8 +3,8 @@ In this project, I've trained a deep learning model to classify and localize the
 
 Dataset available [here](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
-FASTAI PRETRAINED MODELS USED.
--VGG19_BN Accuracy --> 97.68 %
+## FASTAI PRETRAINED MODELS USED.
+- VGG19_BN Accuracy --> 97.68 %
 
 Check it out for yourself, VGG19_BN in action at [Google Colab](https://colab.research.google.com/github/bala-codes/MALARIA-CELLS-PARASITE-CLASSIFIER-USING-DEEP-LEARNING/blob/master/codes%20(FASTAI)/1.%20Malaria%20Cell%20Classifier%20FASTAI%20RESNET16%20and%20VGG16.ipynb) and [Google Colab](https://colab.research.google.com/github/bala-codes/MALARIA-CELLS-PARASITE-CLASSIFIER-USING-DEEP-LEARNING/blob/master/codes%20(FASTAI)/2.%20Malaria%20Cell%20Classifier%20FASTAI%20VGG19_bn.ipynb)
 

@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've trained a deep learning model to classify and localize the parasites present in the blood smeared images which are seen under microscope.
+In this repo, I've trained a deep learning model to classify and localize the parasites present in the blood smeared images which are seen under microscope.
 
 Dataset available [here](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
